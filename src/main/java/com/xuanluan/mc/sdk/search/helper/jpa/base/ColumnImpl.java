@@ -1,7 +1,6 @@
 package com.xuanluan.mc.sdk.search.helper.jpa.base;
 
-import com.xuanluan.mc.sdk.domain.model.request.jpa.EntityColumns;
-import com.xuanluan.mc.sdk.helper.jpa.base.IColumn;
+import com.xuanluan.mc.sdk.search.domain.model.EntityColumns;
 import com.xuanluan.mc.sdk.utils.CollectionUtils;
 
 import javax.persistence.criteria.Path;

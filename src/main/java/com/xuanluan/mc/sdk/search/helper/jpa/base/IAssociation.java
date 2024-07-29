@@ -1,7 +1,5 @@
 package com.xuanluan.mc.sdk.search.helper.jpa.base;
 
-import com.xuanluan.mc.sdk.helper.jpa.base.IBase;
-
 import javax.persistence.criteria.Join;
 import java.util.Collection;
 

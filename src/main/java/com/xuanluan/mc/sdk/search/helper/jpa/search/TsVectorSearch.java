@@ -1,11 +1,11 @@
 package com.xuanluan.mc.sdk.search.helper.jpa.search;
 
-import com.xuanluan.mc.sdk.domain.model.request.jpa.SearchColumns;
-import com.xuanluan.mc.sdk.helper.jpa.base.AssociationImpl;
-import com.xuanluan.mc.sdk.helper.jpa.base.ColumnImpl;
-import com.xuanluan.mc.sdk.helper.jpa.base.IAssociation;
-import com.xuanluan.mc.sdk.helper.jpa.base.IColumn;
-import com.xuanluan.mc.sdk.helper.jpa.search.BaseSearch;
+
+import com.xuanluan.mc.sdk.search.domain.model.SearchColumns;
+import com.xuanluan.mc.sdk.search.helper.jpa.base.AssociationImpl;
+import com.xuanluan.mc.sdk.search.helper.jpa.base.ColumnImpl;
+import com.xuanluan.mc.sdk.search.helper.jpa.base.IAssociation;
+import com.xuanluan.mc.sdk.search.helper.jpa.base.IColumn;
 
 import javax.persistence.criteria.*;
 import java.util.Collection;

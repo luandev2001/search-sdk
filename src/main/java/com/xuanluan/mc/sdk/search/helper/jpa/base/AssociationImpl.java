@@ -1,8 +1,6 @@
 package com.xuanluan.mc.sdk.search.helper.jpa.base;
 
-import com.xuanluan.mc.sdk.domain.model.request.jpa.EntityColumns;
-import com.xuanluan.mc.sdk.helper.jpa.base.ColumnImpl;
-import com.xuanluan.mc.sdk.helper.jpa.base.IAssociation;
+import com.xuanluan.mc.sdk.search.domain.model.EntityColumns;
 import com.xuanluan.mc.sdk.utils.CollectionUtils;
 import lombok.Getter;
 

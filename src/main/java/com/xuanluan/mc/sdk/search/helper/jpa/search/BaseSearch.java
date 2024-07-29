@@ -1,7 +1,6 @@
 package com.xuanluan.mc.sdk.search.helper.jpa.search;
 
-import com.xuanluan.mc.sdk.helper.jpa.BaseJpa;
-import com.xuanluan.mc.sdk.helper.jpa.search.ISearch;
+import com.xuanluan.mc.sdk.search.helper.jpa.BaseJpa;
 
 import javax.persistence.criteria.CriteriaBuilder;
 import javax.persistence.criteria.JoinType;
